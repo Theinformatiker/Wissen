@@ -1,0 +1,17 @@
+HR Agreement Summary (all N=6 runs)
+====================================
+Bias = Upper Arm - Wrist (bpm); LoA = 95% Limits of Agreement
+
+Run 1: r=0.83, MAE=4.0 bpm, Bias=+1.6 bpm, LoA=[-12.7, +15.9]
+Run 2: r=0.03, MAE=22.1 bpm, Bias=+19.9 bpm, LoA=[-39.8, +79.6]
+Run 3: r=0.65, MAE=5.5 bpm, Bias=-1.9 bpm, LoA=[-18.5, +14.6]
+Run 4: r=0.60, MAE=9.1 bpm, Bias=+7.0 bpm, LoA=[-15.6, +29.6]
+Run 5: r=0.68, MAE=7.1 bpm, Bias=+1.3 bpm, LoA=[-20.8, +23.4]
+Run 6: r=0.80, MAE=5.3 bpm, Bias=-0.1 bpm, LoA=[-15.2, +15.0]
+
+Cross-run mean Pearson r: 0.60
+Cross-run median Pearson r: 0.66
+Cross-run mean MAE: 8.9 bpm
+Cross-run mean Bias: +4.6 bpm
+
+Use cross-run r/MAE (not Trial 3 alone) when characterizing overall agreement.

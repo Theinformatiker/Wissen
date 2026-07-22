@@ -1,0 +1,15 @@
+Speed Agreement Summary (all N=6 runs)
+=======================================
+Bias = Upper Arm (smoothed) - Wrist (km/h)
+
+Run 1: r=0.55, MAE=1.65 km/h, Bias=+1.21 km/h
+Run 2: r=0.72, MAE=1.34 km/h, Bias=-0.72 km/h
+Run 3: r=0.77, MAE=0.85 km/h, Bias=+0.25 km/h
+Run 4: r=0.79, MAE=0.76 km/h, Bias=-0.08 km/h
+Run 5: r=0.84, MAE=0.64 km/h, Bias=+0.12 km/h
+Run 6: r=0.72, MAE=1.28 km/h, Bias=+0.09 km/h
+
+Cross-run mean Pearson r: 0.73
+Cross-run median Pearson r: 0.75
+Cross-run mean MAE: 1.09 km/h
+Cross-run mean Bias: +0.15 km/h

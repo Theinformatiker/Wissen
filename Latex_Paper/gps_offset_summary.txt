@@ -1,0 +1,13 @@
+GPS Offset Summary (all N=6 runs)
+==================================
+Run 1: mean=3.41 m, max=10.5 m
+Run 2: mean=7.26 m, max=30.5 m
+Run 3: mean=8.26 m, max=22.9 m
+Run 4: mean=3.83 m, max=11.1 m
+Run 5: mean=2.12 m, max=6.6 m
+Run 6: mean=2.48 m, max=17.9 m
+
+Cross-run average mean offset: 4.56 m
+Cross-run maximum offset: 30.5 m
+
+Use this cross-run average in the Abstract, NOT a single trial's value.

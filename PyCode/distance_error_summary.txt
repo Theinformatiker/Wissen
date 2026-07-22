@@ -1,0 +1,12 @@
+Distance Error Summary (all N=6 runs)
+======================================
+Error = |OA - HG| / OA * 100 (Upper Arm treated as reference)
+
+Run 1: OA=3.191 km, HG=3.156 km, Error=1.1%
+Run 2: OA=3.211 km, HG=3.075 km, Error=4.2%
+Run 3: OA=3.198 km, HG=3.133 km, Error=2.0%
+Run 4: OA=3.190 km, HG=3.174 km, Error=0.5%
+Run 5: OA=3.189 km, HG=3.168 km, Error=0.7%
+Run 6: OA=3.216 km, HG=3.193 km, Error=0.7%
+
+Cross-run mean distance error: 1.5%

@@ -1,0 +1,14 @@
+HR Cross-Correlation Lag Summary (all N=6 runs)
+================================================
+Positive lag = wrist HR lags behind upper-arm HR (seconds)
+
+Run 1: lag=+27s (r=0.91)
+Run 2: lag=+60s (r=0.17)
+Run 3: lag=+6s (r=0.66)
+Run 4: lag=+16s (r=0.66)
+Run 5: lag=+20s (r=0.72)
+Run 6: lag=+11s (r=0.84)
+
+Cross-run mean lag: +23.3s
+Cross-run median lag: +18.0s
+Range: +6 to +60s
