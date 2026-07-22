@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.22)  22 JUL 2026 22:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.22)  22 JUL 2026 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -516,31 +516,19 @@ Package pdftex.def Info: distance_error_all_runs.png  used on input line 307.
  [2 <./Run_3_HR_Trend.png> <./Run_3_Speed_Profile.png> <./Run_3_HR_Scatterplot.
 png> <./Run_3_HR_Bland_Altman.png>] [3 <./hr_agreement_all_runs.png>]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 431.
+(Font)              scaled to size 8.27998pt on input line 432.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.27998pt on input line 431.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
+(Font)              scaled to size 8.27998pt on input line 432.
 <amazfit.jpeg, id=111, 1541.76pt x 2055.68pt>
 File: amazfit.jpeg Graphic file (type jpg)
 <use amazfit.jpeg>
-Package pdftex.def Info: amazfit.jpeg  used on input line 452.
+Package pdftex.def Info: amazfit.jpeg  used on input line 453.
 (pdftex.def)             Requested size: 115.65256pt x 154.20071pt.
 <hw9.jpeg, id=112, 1541.76pt x 2055.68pt>
 File: hw9.jpeg Graphic file (type jpg)
 <use hw9.jpeg>
-Package pdftex.def Info: hw9.jpeg  used on input line 456.
+Package pdftex.def Info: hw9.jpeg  used on input line 457.
 (pdftex.def)             Requested size: 115.65256pt x 154.20071pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [4 <./Bland_Altman_Grid_3x2.png>] [5 <./run_3_route.png (PNG copy)> <./power_a
 nalysis_curve.png> <./gps_offset_all_runs.png> <./distance_error_all_runs.png> 
 <./amazfit.jpeg> <./hw9.jpeg>] (./main.bbl) [6] (./main.aux)
@@ -569,7 +557,7 @@ mr9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c
 -dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2026/texmf-dist/fonts/typ
 e1/urw/times/utmb8a.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8
 a.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (6 pages, 4000602 bytes).
+Output written on main.pdf (6 pages, 4000603 bytes).
 PDF statistics:
  217 PDF objects out of 1000 (max. 8388607)
  156 compressed objects within 2 object streams
