@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.22)  22 JUL 2026 21:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.22)  22 JUL 2026 22:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -441,20 +441,12 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 9.19998pt on input line 97.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 9.19998pt on input line 97.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+42.
 
-
-LaTeX Warning: Citation 'passler2019inear' on page 1 undefined on input line 12
-6.
-
-
-LaTeX Warning: Citation 'machado2025chestworn' on page 1 undefined on input lin
-e 128.
-
-
-LaTeX Warning: Citation 'john2026multisensor' on page 1 undefined on input line
- 131.
-
-
+(c:/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -465,104 +457,93 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-51.
-
-(c:/texlive/2026/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-<Run_3_HR_Trend.png, id=47, 867.24pt x 433.62pt>
+<Run_3_HR_Trend.png, id=48, 867.24pt x 433.62pt>
 File: Run_3_HR_Trend.png Graphic file (type png)
 <use Run_3_HR_Trend.png>
-Package pdftex.def Info: Run_3_HR_Trend.png  used on input line 198.
+Package pdftex.def Info: Run_3_HR_Trend.png  used on input line 189.
 (pdftex.def)             Requested size: 216.84901pt x 108.42458pt.
-<Run_3_Speed_Profile.png, id=49, 867.24pt x 433.62pt>
+<Run_3_Speed_Profile.png, id=50, 867.24pt x 433.62pt>
 File: Run_3_Speed_Profile.png Graphic file (type png)
 <use Run_3_Speed_Profile.png>
-Package pdftex.def Info: Run_3_Speed_Profile.png  used on input line 199.
+Package pdftex.def Info: Run_3_Speed_Profile.png  used on input line 190.
 (pdftex.def)             Requested size: 216.84901pt x 108.42458pt.
-<Run_3_HR_Scatterplot.png, id=52, 505.89pt x 505.89pt>
+
+Underfull \vbox (badness 1014) has occurred while \output is active []
+
+
+Underfull \vbox (badness 1014) has occurred while \output is active []
+
+<Run_3_HR_Scatterplot.png, id=53, 505.89pt x 505.89pt>
 File: Run_3_HR_Scatterplot.png Graphic file (type png)
 <use Run_3_HR_Scatterplot.png>
-Package pdftex.def Info: Run_3_HR_Scatterplot.png  used on input line 240.
+Package pdftex.def Info: Run_3_HR_Scatterplot.png  used on input line 231.
 (pdftex.def)             Requested size: 216.84901pt x 216.84915pt.
-<Run_3_HR_Bland_Altman.png, id=53, 722.7pt x 433.62pt>
+<Run_3_HR_Bland_Altman.png, id=54, 722.7pt x 433.62pt>
 File: Run_3_HR_Bland_Altman.png Graphic file (type png)
 <use Run_3_HR_Bland_Altman.png>
-Package pdftex.def Info: Run_3_HR_Bland_Altman.png  used on input line 244.
+Package pdftex.def Info: Run_3_HR_Bland_Altman.png  used on input line 235.
 (pdftex.def)             Requested size: 216.84901pt x 130.10684pt.
-<hr_agreement_all_runs.png, id=56, 650.43pt x 542.025pt>
+<hr_agreement_all_runs.png, id=57, 650.43pt x 542.025pt>
 File: hr_agreement_all_runs.png Graphic file (type png)
 <use hr_agreement_all_runs.png>
-Package pdftex.def Info: hr_agreement_all_runs.png  used on input line 260.
+Package pdftex.def Info: hr_agreement_all_runs.png  used on input line 251.
 (pdftex.def)             Requested size: 240.94499pt x 200.78595pt.
-<Bland_Altman_Grid_3x2.png, id=60, 1011.78pt x 1084.05pt>
+<Bland_Altman_Grid_3x2.png, id=61, 1011.78pt x 1084.05pt>
 File: Bland_Altman_Grid_3x2.png Graphic file (type png)
 <use Bland_Altman_Grid_3x2.png>
-Package pdftex.def Info: Bland_Altman_Grid_3x2.png  used on input line 278.
+Package pdftex.def Info: Bland_Altman_Grid_3x2.png  used on input line 269.
 (pdftex.def)             Requested size: 430.00958pt x 460.72343pt.
-<run_3_route.png, id=61, 1186.4325pt x 650.43pt>
+<run_3_route.png, id=62, 1186.4325pt x 650.43pt>
 File: run_3_route.png Graphic file (type png)
 <use run_3_route.png>
-Package pdftex.def Info: run_3_route.png  used on input line 291.
+Package pdftex.def Info: run_3_route.png  used on input line 282.
 (pdftex.def)             Requested size: 216.84901pt x 118.87865pt.
-<power_analysis_curve.png, id=62, 714.0276pt x 423.0204pt>
+<power_analysis_curve.png, id=63, 714.0276pt x 423.0204pt>
 File: power_analysis_curve.png Graphic file (type png)
 <use power_analysis_curve.png>
-Package pdftex.def Info: power_analysis_curve.png  used on input line 295.
+Package pdftex.def Info: power_analysis_curve.png  used on input line 286.
 (pdftex.def)             Requested size: 216.84901pt x 128.46915pt.
-<gps_offset_all_runs.png, id=63, 650.43pt x 397.485pt>
+<gps_offset_all_runs.png, id=64, 650.43pt x 397.485pt>
 File: gps_offset_all_runs.png Graphic file (type png)
 <use gps_offset_all_runs.png>
-Package pdftex.def Info: gps_offset_all_runs.png  used on input line 306.
+Package pdftex.def Info: gps_offset_all_runs.png  used on input line 297.
 (pdftex.def)             Requested size: 240.94499pt x 147.24303pt.
-<distance_error_all_runs.png, id=64, 650.43pt x 397.485pt>
+<distance_error_all_runs.png, id=65, 650.43pt x 397.485pt>
 File: distance_error_all_runs.png Graphic file (type png)
 <use distance_error_all_runs.png>
-Package pdftex.def Info: distance_error_all_runs.png  used on input line 316.
+Package pdftex.def Info: distance_error_all_runs.png  used on input line 307.
 (pdftex.def)             Requested size: 240.94499pt x 147.24303pt.
-
-Underfull \vbox (badness 1082) has occurred while \output is active []
-
-
-Underfull \vbox (badness 1082) has occurred while \output is active []
-
- [2 <./Run_3_HR_Trend.png> <./Run_3_Speed_Profile.png>]
-
-LaTeX Warning: Text page 3 contains only floats.
-
-[3 <./Run_3_HR_Scatterplot.png> <./Run_3_HR_Bland_Altman.png> <./hr_agreement_a
-ll_runs.png>]
+ [2 <./Run_3_HR_Trend.png> <./Run_3_Speed_Profile.png> <./Run_3_HR_Scatterplot.
+png> <./Run_3_HR_Bland_Altman.png>] [3 <./hr_agreement_all_runs.png>]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 440.
+(Font)              scaled to size 8.27998pt on input line 431.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.27998pt on input line 440.
+(Font)              scaled to size 8.27998pt on input line 431.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <./Bland_Altman_Grid_3x2.png>]
-<amazfit.jpeg, id=118, 1541.76pt x 2055.68pt>
+<amazfit.jpeg, id=111, 1541.76pt x 2055.68pt>
 File: amazfit.jpeg Graphic file (type jpg)
 <use amazfit.jpeg>
-Package pdftex.def Info: amazfit.jpeg  used on input line 461.
+Package pdftex.def Info: amazfit.jpeg  used on input line 452.
 (pdftex.def)             Requested size: 115.65256pt x 154.20071pt.
-<hw9.jpeg, id=119, 1541.76pt x 2055.68pt>
+<hw9.jpeg, id=112, 1541.76pt x 2055.68pt>
 File: hw9.jpeg Graphic file (type jpg)
 <use hw9.jpeg>
-Package pdftex.def Info: hw9.jpeg  used on input line 465.
+Package pdftex.def Info: hw9.jpeg  used on input line 456.
 (pdftex.def)             Requested size: 115.65256pt x 154.20071pt.
- [5 <./run_3_route.png (PNG copy)> <./power_analysis_curve.png> <./gps_offset_a
-ll_runs.png> <./distance_error_all_runs.png> <./amazfit.jpeg> <./hw9.jpeg>] (./
-main.bbl) [6] (./main.aux)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./Bland_Altman_Grid_3x2.png>] [5 <./run_3_route.png (PNG copy)> <./power_a
+nalysis_curve.png> <./gps_offset_all_runs.png> <./distance_error_all_runs.png> 
+<./amazfit.jpeg> <./hw9.jpeg>] (./main.bbl) [6] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
@@ -571,7 +552,7 @@ L3 programming layer <2026-06-18>
 Here is how much of TeX's memory you used:
  12008 strings out of 467168
  191320 string characters out of 5413705
- 637892 words of memory out of 5000000
+ 636892 words of memory out of 5000000
  41064 multiletter control sequences out of 15000+600000
  676600 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -588,7 +569,7 @@ mr9.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c
 -dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2026/texmf-dist/fonts/typ
 e1/urw/times/utmb8a.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmr8
 a.pfb><c:/texlive/2026/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (6 pages, 4001319 bytes).
+Output written on main.pdf (6 pages, 4000602 bytes).
 PDF statistics:
  217 PDF objects out of 1000 (max. 8388607)
  156 compressed objects within 2 object streams
